@@ -98,7 +98,7 @@ Resources:
       RouteTableId: !Ref MyRouteTable
 
 ###########
-# EC2 Instace
+# EC2 Instance
 ##########
 
   MyInstance:

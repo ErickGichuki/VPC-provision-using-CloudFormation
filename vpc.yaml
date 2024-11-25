@@ -63,7 +63,7 @@ Resources:
               Value: MySecurityGroup
 
 ############
-# Subnets
+# Subnets with the rules
 ###########
 
   PrivateSubnet:
